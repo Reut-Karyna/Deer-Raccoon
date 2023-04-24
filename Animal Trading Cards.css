@@ -5,7 +5,7 @@ li {list-style-type: none;}
   border: 0.1px solid black;
   width: 300px;
   height: 780px;
-box-shadow: 4.5px 2px 2px grey;
+box-shadow: 4.5px 2px 2px grey; 
 flex-wrap: wrap;
 text-align: center;
 display: flex;
